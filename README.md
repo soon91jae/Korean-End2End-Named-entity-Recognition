@@ -2,7 +2,7 @@
 
 If you are going to cite my work, please refer following papers.
 
-@inproceedings{kwon2017robust,
+@inproceedings{kwon2017robust,\n
   title={A Robust Named-Entity Recognition System Using Syllable Bigram Embedding with Eojeol Prefix Information},
   author={Kwon, Sunjae and Ko, Youngjoong and Seo, Jungyun},
   booktitle={Proceedings of the 2017 ACM on Conference on Information and Knowledge Management},
