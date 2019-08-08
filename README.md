@@ -1,4 +1,4 @@
-# Korean-End2End-Named-entity-Recognition
+# Korean-End2End-NER
 
 If you are going to cite my work, please refer following papers.
 
